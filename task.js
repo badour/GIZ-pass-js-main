@@ -9,7 +9,6 @@ let numbers = [
     16
 ];
 
-
 console.log("Original numbers list: ",numbers)
 
 for(let i = 0 ; i < numbers.length -1 ; i++)

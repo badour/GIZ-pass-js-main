@@ -17,21 +17,5 @@ for (i=0 ; i< numbers.length; i++)
         file.write(numbers[i] + ',')
     }
 }
-/*numbers.forEach(
-    
-    v => file.write(v+','))
-file.end()*/
 
-/*while (arraynum --)
-{
-    if (v = arraynum[arraynum.length-1])
-    {
-        v => file.write(arraynum)
-    }
-    else
-    {
-        v => file.write(arraynum+',')
-
-    }
-}
-file.end()*/
+file.end()
